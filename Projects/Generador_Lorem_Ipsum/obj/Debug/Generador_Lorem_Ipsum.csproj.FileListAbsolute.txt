@@ -1,0 +1,11 @@
+C:\Users\Alex Lopez\Documents\Proyectos C#\Projects\Generador_Lorem_Ipsum\bin\Debug\Generador_Lorem_Ipsum.exe.config
+C:\Users\Alex Lopez\Documents\Proyectos C#\Projects\Generador_Lorem_Ipsum\bin\Debug\Generador_Lorem_Ipsum.exe
+C:\Users\Alex Lopez\Documents\Proyectos C#\Projects\Generador_Lorem_Ipsum\bin\Debug\Generador_Lorem_Ipsum.pdb
+C:\Users\Alex Lopez\Documents\Proyectos C#\Projects\Generador_Lorem_Ipsum\obj\Debug\Generador_Lorem_Ipsum.csproj.AssemblyReference.cache
+C:\Users\Alex Lopez\Documents\Proyectos C#\Projects\Generador_Lorem_Ipsum\obj\Debug\Generador_Lorem_Ipsum.csproj.SuggestedBindingRedirects.cache
+C:\Users\Alex Lopez\Documents\Proyectos C#\Projects\Generador_Lorem_Ipsum\obj\Debug\Generador_Lorem_Ipsum.Form1.resources
+C:\Users\Alex Lopez\Documents\Proyectos C#\Projects\Generador_Lorem_Ipsum\obj\Debug\Generador_Lorem_Ipsum.Properties.Resources.resources
+C:\Users\Alex Lopez\Documents\Proyectos C#\Projects\Generador_Lorem_Ipsum\obj\Debug\Generador_Lorem_Ipsum.csproj.GenerateResource.cache
+C:\Users\Alex Lopez\Documents\Proyectos C#\Projects\Generador_Lorem_Ipsum\obj\Debug\Generador_Lorem_Ipsum.csproj.CoreCompileInputs.cache
+C:\Users\Alex Lopez\Documents\Proyectos C#\Projects\Generador_Lorem_Ipsum\obj\Debug\Generador_Lorem_Ipsum.exe
+C:\Users\Alex Lopez\Documents\Proyectos C#\Projects\Generador_Lorem_Ipsum\obj\Debug\Generador_Lorem_Ipsum.pdb
